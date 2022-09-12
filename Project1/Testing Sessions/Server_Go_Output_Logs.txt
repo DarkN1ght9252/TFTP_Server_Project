@@ -1,0 +1,251 @@
+T1
+
+
+DAP server listening at: 127.0.0.1:56442
+2021/10/01 18:35:58 Connected to a UDP Client
+DAP server listening at: 127.0.0.1:56442
+2021/10/01 18:35:58 Connected to a UDP Client
+
+2021/10/01 18:35:58  RRQ Packet recieved 
+ Found the Mode and FileName netascii Test.txt
+2021/10/01 18:35:58 Connected to a UDP Client
+
+2021/10/01 18:35:58  ACK Packet recieved 
+2021/10/01 18:35:58 [0 1]
+2021/10/01 18:35:58 Connected to a UDP Client
+
+2021/10/01 18:35:58  ACK Packet recieved 
+2021/10/01 18:35:58 [0 2]
+2021/10/01 18:35:58 Connected to a UDP Client
+
+2021/10/01 18:35:58  ACK Packet recieved 
+2021/10/01 18:35:58 [0 3]
+2021/10/01 18:35:58 read udp 127.0.0.1:69: use of closed network connection
+Process 9140 has exited with status 1
+Detaching
+Process 9140 has exited with status 1
+Detaching
+dlv dap (15732) exited with code: 0
+
+
+
+
+
+T2
+
+
+DAP server listening at: 127.0.0.1:64815
+2021/10/01 18:38:40 Connected to a UDP Client
+
+2021/10/01 18:38:40  WRQ Packet recieved 
+ Found the Mode and FileName netascii TestOutPut1.txt
+
+2021/10/01 18:38:40  Data Packet recieved 
+2021/10/01 18:38:40 blknumber :  1 currentblknum :  1
+2021/10/01 18:38:40 Size of Data :  512
+
+2021/10/01 18:38:40  Data Packet recieved 
+2021/10/01 18:38:40 blknumber :  2 currentblknum :  2
+2021/10/01 18:38:40 Size of Data :  512
+
+2021/10/01 18:38:40  Data Packet recieved 
+2021/10/01 18:38:40 blknumber :  3 currentblknum :  3
+2021/10/01 18:38:40 Size of Data :  512
+
+2021/10/01 18:38:40  Data Packet recieved 
+2021/10/01 18:38:40 blknumber :  4 currentblknum :  4
+2021/10/01 18:38:40 Size of Data :  53
+Process 14392 has exited with status 0
+Detaching
+Process 14392 has exited with status 0
+Detaching
+dlv dap (9788) exited with code: 0
+
+
+T3
+
+DAP server listening at: 127.0.0.1:64820
+2021/10/01 18:39:51 Connected to a UDP Client
+
+2021/10/01 18:39:51  RRQ Packet recieved 
+ Found the Mode and FileName netascii TestOutPut1.txt
+2021/10/01 18:39:51 Connected to a UDP Client
+
+2021/10/01 18:39:51  ACK Packet recieved 
+2021/10/01 18:39:51 [0 1]
+2021/10/01 18:39:51 Connected to a UDP Client
+
+2021/10/01 18:39:51  ACK Packet recieved 
+2021/10/01 18:39:51 [0 2]
+2021/10/01 18:39:51 Connected to a UDP Client
+
+2021/10/01 18:39:51  ACK Packet recieved 
+2021/10/01 18:39:51 [0 3]
+2021/10/01 18:39:51 read udp 127.0.0.1:69: use of closed network connection
+Process 11224 has exited with status 1
+Detaching
+Process 11224 has exited with status 1
+Detaching
+dlv dap (15396) exited with code: 0
+
+
+
+T4
+
+
+Starting: C:\Users\Cla45\go\bin\dlv-dap.exe dap --check-go-version=false --listen=127.0.0.1:64826 from c:\Users\Cla45\Desktop\Comp429\Project1
+DAP server listening at: 127.0.0.1:64826
+2021/10/01 18:41:47 Connected to a UDP Client
+.
+.
+.
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 21]
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 22]
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 23]
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 24]
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 25]
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 26]
+2021/10/01 18:41:47 Connected to a UDP Client
+
+2021/10/01 18:41:47  ACK Packet recieved 
+2021/10/01 18:41:47 [0 27]
+2021/10/01 18:41:47 read udp 127.0.0.1:69: use of closed network connection
+Process 10352 has exited with status 1
+Detaching
+Process 10352 has exited with status 1
+Detaching
+dlv dap (13028) exited with code: 0
+
+
+
+
+T5
+
+
+
+
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 75]
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 76]
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 77]
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 78]
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 79]
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 80]
+2021/10/01 18:45:44 Connected to a UDP Client
+
+2021/10/01 18:45:44  ACK Packet recieved 
+2021/10/01 18:45:44 [0 81]
+2021/10/01 18:45:44 read udp 127.0.0.1:69: use of closed network connection
+Process 24524 has exited with status 1
+Detaching
+Process 24524 has exited with status 1
+Detaching
+dlv dap (9368) exited with code: 0
+
+
+
+
+T6
+
+DAP server listening at: 127.0.0.1:63388
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  RRQ Packet recieved 
+ Found the Mode and FileName netascii ReallyLarge.txt
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 1]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 2]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 3]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 4]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 5]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 6]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 7]
+
+.
+.
+.
+.
+
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 77]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 78]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 79]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 80]
+2021/10/01 18:47:38 Connected to a UDP Client
+
+2021/10/01 18:47:38  ACK Packet recieved 
+2021/10/01 18:47:38 [0 81]
+2021/10/01 18:47:38 read udp 127.0.0.1:69: use of closed network connection
+Process 23676 has exited with status 1
+Detaching
+Process 23676 has exited with status 1
+Detaching
+dlv dap (19412) exited with code: 0
+
+

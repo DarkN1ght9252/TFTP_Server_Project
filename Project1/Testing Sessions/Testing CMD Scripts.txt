@@ -1,0 +1,19 @@
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>tftp localhost get Test.txt TestOutPut1.txt
+Transfer successful: 1589 bytes in 1 second(s), 1589 bytes/s
+
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>tftp localhost put TestOutPut1.txt
+Transfer successful: 1589 bytes in 1 second(s), 1589 bytes/s
+
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>tftp localhost get TestOutPut1.txt TestOutPut1Copy.txt
+Transfer successful: 1589 bytes in 1 second(s), 1589 bytes/s
+
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>tftp localhost get Test2.txt LargerFile.txt
+Transfer successful: 13851 bytes in 1 second(s), 13851 bytes/s
+
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>tftp localhost get ReallyLarge.txt LargestFile.txt
+Transfer successful: 41553 bytes in 1 second(s), 41553 bytes/s
+
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>tftp localhost get ReallyLarge.txt
+Transfer successful: 41553 bytes in 1 second(s), 41553 bytes/s
+
+C:\Users\Cla45\Desktop\Comp429\Project1\Inputs>
